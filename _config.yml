@@ -1,0 +1,12 @@
+# Site settings
+title: Stay hungry. Stay foolish.
+email: johnwenblabla@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  We were all going direct to Heaven, we were all going direct the other way. —— Charles Dickens
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://immime.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  immime
+
+# Build settings
+markdown: kramdown
